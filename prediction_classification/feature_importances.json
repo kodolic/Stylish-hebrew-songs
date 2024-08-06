@@ -1,0 +1,118 @@
+[
+    {
+        "Feature": "heBERT_sentiment",
+        "Importance": 0.06535099560265371
+    },
+    {
+        "Feature": "avg_word_similarity_hebrew",
+        "Importance": 0.06144178105829188
+    },
+    {
+        "Feature": "semantic_similarity",
+        "Importance": 0.04625226386685959
+    },
+    {
+        "Feature": "word_similarity-large",
+        "Importance": 0.042285976420465374
+    },
+    {
+        "Feature": "average_word_frequency",
+        "Importance": 0.04185393537405599
+    },
+    {
+        "Feature": "avg_word_similarity_english",
+        "Importance": 0.04148824561742798
+    },
+    {
+        "Feature": "avgSimilarityMeasure",
+        "Importance": 0.039293264674523085
+    },
+    {
+        "Feature": "averageSetWordLength",
+        "Importance": 0.03873357610819858
+    },
+    {
+        "Feature": "bigramsEntropy",
+        "Importance": 0.037052062253816354
+    },
+    {
+        "Feature": "AvgUniqueness",
+        "Importance": 0.036655692073237094
+    },
+    {
+        "Feature": "trigramsEntropy",
+        "Importance": 0.03655851468466544
+    },
+    {
+        "Feature": "sentimentScore",
+        "Importance": 0.036339354217154826
+    },
+    {
+        "Feature": "DiffLemmas",
+        "Importance": 0.03439118389708781
+    },
+    {
+        "Feature": "readabilityMeasure",
+        "Importance": 0.033646009455934336
+    },
+    {
+        "Feature": "WordsRhymes",
+        "Importance": 0.032955434080864064
+    },
+    {
+        "Feature": "theUniquenessLvlOfTheRepeatedSongs",
+        "Importance": 0.032221816887999445
+    },
+    {
+        "Feature": "uniqueWords",
+        "Importance": 0.030332976826897305
+    },
+    {
+        "Feature": "percentageOfTotalWordsToUnique",
+        "Importance": 0.02984583402792833
+    },
+    {
+        "Feature": "positiveWords",
+        "Importance": 0.029106120500958094
+    },
+    {
+        "Feature": "numberOfTriGrams",
+        "Importance": 0.029028890913606217
+    },
+    {
+        "Feature": "numberOfBiGrams",
+        "Importance": 0.02885733369706847
+    },
+    {
+        "Feature": "RatioOfPOStoWords",
+        "Importance": 0.028627150302706014
+    },
+    {
+        "Feature": "NumberOfUniqueWordsby1/freq",
+        "Importance": 0.027742844492078013
+    },
+    {
+        "Feature": "ratioOfTotalWordsToUnique",
+        "Importance": 0.027555567829732352
+    },
+    {
+        "Feature": "percentageOfRepeatedWords",
+        "Importance": 0.027166126807601224
+    },
+    {
+        "Feature": "wordCount",
+        "Importance": 0.024620617943061328
+    },
+    {
+        "Feature": "numberOfRepeatedWords",
+        "Importance": 0.02376448535292395
+    },
+    {
+        "Feature": "negativeWords",
+        "Importance": 0.021330282658563692
+    },
+    {
+        "Feature": "DiffPOS",
+        "Importance": 0.015501662373639289
+    }
+]
